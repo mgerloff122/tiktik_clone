@@ -32,5 +32,5 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
       </GoogleOAuthProvider>
   );
 }
-
+ 
 export default MyApp
